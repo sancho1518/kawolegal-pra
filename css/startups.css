@@ -1,0 +1,54 @@
+.container-home {
+	background-color: rgb(59, 12, 12);
+}
+
+.navbar-home {
+	border: 2px solid brown;
+	margin-top: 5px;
+	color: brown;
+}
+.navbar{
+	color: brown;
+}
+
+
+.image{
+	margin-left:50px; 
+}
+
+.startups{
+	margin-top: 20px;
+	margin-left: 120px;
+	width: 1190px;
+	height: 30px;
+	border-bottom-left-radius:5px;
+	border-top-left-radius: 5px;
+	border: 1px solid grey;
+
+}
+
+.search{
+	border: 1px solid;
+	border-bottom-right-radius:5px;
+	border-top-right-radius: 5px;
+	background-color:#20c0f5; 
+	border-left-width:-30px;
+	height: 30px;
+	color: white;
+
+}
+
+.footer{
+	background-color: rgb(59, 12, 12);
+	height: 80px;
+	margin-bottom: 10px;
+	color: white;
+}
+
+.down{
+	color:blue;
+}
+
+.head{
+	color: blue;
+}

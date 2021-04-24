@@ -1,0 +1,40 @@
+.container-home {
+	background-color: rgb(59, 12, 12);
+}
+.navbar-home {
+	border: 2px solid brown;
+	margin-top: 5px;
+	color: brown;
+}
+.navbar{
+	color: brown;
+}
+.image{
+	margin-left:50px; 
+}
+.form-group{
+	margin-left: 400px;
+	margin-right: 200px;
+
+}
+.submit{
+	margin-left: 400px;
+	color: white;
+	background-color: blue;
+	border-bottom-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+	border:1px solid;
+	height: 20%;
+	
+}
+
+
+.footer{
+	background-color: rgb(59, 12, 12);
+	height: 80px;
+	margin-bottom: 10px;
+	color: white;
+	margin-top: 15%;
+}
